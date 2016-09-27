@@ -153,10 +153,9 @@
 
   <footer class="post-footer">
 
-
-    {{if .Site.Params.logo}}
+    {{if .Site.Params.profile }}
     <figure class="author-image">
-        <a class="img" href="{{.Site.BaseURL}}" style="background-image: url({{ $baseurl }}{{.Site.Params.logo}})"><span class="hidden">{{.Site.Params.author}}'s Picture</span></a>
+        <a class="img" href="{{.Site.BaseURL}}" style="background-image: url({{ $baseurl }}{{.Site.Params.profile}})"><span class="hidden">{{.Site.Params.author}}'s Picture</span></a>
     </figure>
     {{end}}
 
