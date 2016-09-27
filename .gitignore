@@ -1,3 +1,4 @@
 *.toml
 *.swp
 public
+.DS_STORE
