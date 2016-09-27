@@ -1,15 +1,15 @@
 +++
-author = ""
-comments = true
-date = "2016-09-15T20:39:15-04:00"
+comments = false
+date = "2015-04-14T22:17:00+00:00"
 draft = false
-image = ""
-menu = ""
-share = true
-slug = "about"
-tags = ["tag1", "tag2"]
-title = "about"
+noauthor = true
+share = false
+title = "About me"
+type = "page"
+[menu.main]
+weight = 111
 
 +++
+
 
 About Page
