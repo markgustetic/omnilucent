@@ -4,6 +4,8 @@ tags = []
 title = "Installing Go on a Mac"
 share = true
 summary = "test"
+
+draft = true
 +++
 
 ## Install Go

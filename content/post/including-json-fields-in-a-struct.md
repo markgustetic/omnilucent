@@ -4,6 +4,7 @@ tags = []
 title = "Including JSON Fields in a Go Struct"
 share = true
 summary = "test"
+draft = true
 +++
 
 Marshalling a structure with a JSON field in it.
